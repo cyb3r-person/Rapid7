@@ -1,5 +1,5 @@
 # Used to fix "Auditd Compatibility Mode" Rapid7 error
-# Intended for RHEL8 Auditd version 3
+# Intended for RHEL8 Auditd v3
 
 import os
 import subprocess
